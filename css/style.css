@@ -2271,8 +2271,8 @@ ul.header-info li.address{
      margin:-1px 0px;
 }
  ul.category-list li a:hover, ul.category-list li a.active-category{
-     color:#000;
-     background:#f2ae2b;
+     color:#fff;
+     background:#42b8e4;
 }
 ul.category-list li i.fa {
      display: none;
@@ -2298,7 +2298,7 @@ ul.category-list li i.fa {
      top: 3px;
      left: 0px;
      font-size: 23px !important;
-     color: #f2ae2b;
+     color: #00a2e6;
 }
  ul.office-information li.office-loc:before {
      content: "\f041";
@@ -2329,7 +2329,7 @@ ul.category-list li i.fa {
      float:left;
      padding:40px 0px 0px 20px;
      background:url(../images/contact-help-bg.jpg) no-repeat center top;
-     border-bottom:4px solid #ffae13;
+     border-bottom:4px solid #e31e25;
      background-size:cover;
      position:relative;
 }
@@ -2343,7 +2343,7 @@ ul.category-list li i.fa {
      padding:3px 86px 52px 0px;
 }
  .contact-help:after{
-    background:url(../images/contact-help-cal.png) no-repeat right top;
+    background:url(../images/contact-address-icon.png) no-repeat right top;
      position:absolute;
      right:0px;
      bottom:-1px;
@@ -4081,17 +4081,18 @@ ul.category-list li i.fa {
 	position:relative;
 }
 .hmslider1 .slide-1{
-	background-image: url(../images/home1-images/home1-slide1.jpg);
-	background-position: center right;
-}
-.hmslider1 .slide-2{
-	background-image: url(../images/home1-images/home1-slide2.jpg);
+	background-image: url(../images/home1-images/shot-blasting-header.jpg);
 	background-position: center right;
 }
 .hmslider1 .slide-3{
-	background-image: url(../images/home1-images/home1-slide3.jpg);
+	background-image: url(../images/home1-images/Industries.jpg);
 	background-position: center right;
 }
+.hmslider1 .slide-2{
+	background-image: url(../images/home1-images/dukometal-sheet-metal-production.jpg);
+	background-position: center right;
+}
+
 
 .home2 .slide-1{
 	background-image: url(../images/home2-images/home2-slide11.jpg);
